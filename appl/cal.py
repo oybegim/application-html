@@ -1,0 +1,2 @@
+a = "APPLICATION"
+print(a)
