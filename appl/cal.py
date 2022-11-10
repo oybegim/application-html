@@ -1,2 +1,0 @@
-a = "APPLICATION"
-print(a)
