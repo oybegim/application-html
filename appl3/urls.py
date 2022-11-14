@@ -6,4 +6,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('gull/', asosiy1),
     path('mevaa/', asosiy2),
+    path('cube/', cube),
 ]
